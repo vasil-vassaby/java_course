@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Ivanov",
+      "country": "Russia",
+      "city": "Moscow",
+      "age": null
+    },
+    {
+      "name": "Petrov",
+      "country": "null",
+      "city": "St.Petersburg",
+      "age": 34
+    },
+    {
+      "name": "null",
+      "country": "Russia",
+      "city": "Samara",
+      "age": 26
+    }
+    ]
+}
